@@ -134,4 +134,4 @@ Confirm the keep action or pause the antivirus.
 
 > 🧭 **Editor's note:** everything above is tested on the current 2026 build. If a step looks different on your machine, open an issue.
 
-*agile-monolith-261 · Updated 2026-10-09 · Shared under the MIT License*
+*agile-monolith-261 · Updated 2026-10-10 · Shared under the MIT License*
